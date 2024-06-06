@@ -1,0 +1,58 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "hanulApp",
+    "blueprints": [
+      {
+        "name": "generator-jhipster-kotlin",
+        "version": "1.16.0"
+      }
+    ],
+    "buildTool": "gradle",
+    "cacheProvider": "no",
+    "clientFramework": "react",
+    "clientPackageManager": "npm",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1717650198857,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "devServerPort": 9060,
+    "dtoSuffix": "DTO",
+    "enableGradleEnterprise": false,
+    "enableHibernateCache": false,
+    "enableSwaggerCodegen": false,
+    "enableTranslation": true,
+    "entitySuffix": "",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "7.9.3",
+    "jwtSecretKey": "ZGFkOWQ0NjkzZjZlMDNhZTIwMWUxNzY0ZmU1N2I2NzliM2U4NWQ2NzNmNjNjNWNjY2I1N2NiYTFhMWY3NDBjNmViOTkwZWQzMzg0MTM5MzczYmRiYTdlY2I5M2VhMWE1NjEyOGU4OTI3ZjY5ZjRmYjUwMWRhZGFkZTQ4ZTQxMzk=",
+    "languages": ["en", "ko"],
+    "messageBroker": false,
+    "microfrontend": false,
+    "microfrontends": [],
+    "nativeLanguage": "en",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-kotlin",
+        "version": "1.16.0"
+      }
+    ],
+    "packageName": "app.clangengineer.hanulapp",
+    "pages": [],
+    "prodDatabaseType": "mongodb",
+    "reactive": true,
+    "searchEngine": false,
+    "serverPort": "8080",
+    "serverSideOptions": [],
+    "serviceDiscoveryType": "no",
+    "skipCheckLengthOfIdentifier": false,
+    "skipClient": false,
+    "skipFakeData": false,
+    "skipUserManagement": false,
+    "testFrameworks": [],
+    "websocket": false,
+    "withAdminUi": true
+  }
+}
