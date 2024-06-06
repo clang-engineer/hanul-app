@@ -15,7 +15,7 @@ import javax.validation.constraints.Size
 /**
  * A user.
  */
-@org.springframework.data.mongodb.core.mapping.Document(collection = "jhi_user")
+@org.springframework.data.mongodb.core.mapping.Document(collection = "tbl_user")
 class User(
 
     @Id

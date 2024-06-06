@@ -9,7 +9,7 @@ import javax.validation.constraints.*
 /**
  * A Point.
  */
-@Document(collection = "point")
+@Document(collection = "tbl_point")
 @SuppressWarnings("common-java:DuplicatedBlocks")
 data class Point(
 

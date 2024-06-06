@@ -9,7 +9,7 @@ import javax.validation.constraints.Size
 /**
  * An authority (a security role) used by Spring Security.
  */
-@Document(collection = "jhi_authority")
+@Document(collection = "tbl_authority")
 data class Authority(
 
     @field:NotNull
